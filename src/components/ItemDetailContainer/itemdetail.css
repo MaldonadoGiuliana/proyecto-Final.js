@@ -3,6 +3,7 @@
   width: 100%;
   min-height: 90vh;
   padding: 100px 0;
+  background-color: darkslategrey;
 }
 .images-detail-container{
   display: flex;
@@ -47,7 +48,7 @@
   width: 200px;
   text-align: center;
   padding: 10px 0;
-  background-color: rgb(42, 42, 42);
+  background-color: rgba(9, 19, 64, 0.971);
   border: 1px solid white;
   border-radius: 5px;
   color: white;

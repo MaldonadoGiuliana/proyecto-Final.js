@@ -3,7 +3,7 @@
   height: 80px;
   display: flex;
   align-items: center;
-  background-color: rgb(37, 37, 37);
+  background-color: rgb(202, 202, 199);
 }
 .navbar .categories{
   width: 33.3%;
@@ -16,7 +16,7 @@
   list-style: none;
 }
 .categories .category .text-link:hover{
-  color: #2ECC71;
+  color: black;
   text-decoration: underline;
 }
 
@@ -27,12 +27,11 @@
   justify-content: center;
   align-items: center;
 }
-.brand .icon-brand{
-  font-size: 40px;
-}
 .brand .title-brand{
   padding: 0 10px;
   font-weight: 600;
+  font-size: 30px;
+  color:  rgba(23, 46, 151, 0.971);
 }
 
 .cartwidget{
@@ -44,7 +43,7 @@
 }
 .cartwidget .icon-cartwidget{
   font-size: 30px;
-  color: #2ECC71;
+  color: black;
 }
 .cartwidget .empty-cartwidget{
   font-size: 30px;
